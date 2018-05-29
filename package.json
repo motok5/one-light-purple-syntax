@@ -1,0 +1,16 @@
+{
+  "name": "one-light-purple-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme like Atom-IDE",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light"
+  ],
+  "repository": "https://github.com/atom/one-light-purple-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
